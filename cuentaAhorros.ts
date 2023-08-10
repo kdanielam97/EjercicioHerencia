@@ -13,5 +13,7 @@ export class CuentaAhorros extends Cuenta {
     getactiva(){
         return this.activa
     }  
+
+    
 }
 

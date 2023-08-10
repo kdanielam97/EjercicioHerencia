@@ -12,4 +12,8 @@ export class CuentaCorriente extends Cuenta {
     getsobreGiro(){
         return this.sobreGiro
     }  
+
+
+
+
 }
